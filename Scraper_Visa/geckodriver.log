@@ -1,0 +1,37 @@
+1649250473826	geckodriver	INFO	Listening on 127.0.0.1:60803
+1649250476934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60804" "-no-remote" "-profile" "C:\\Users\\mhsaf\\AppData\\Local\\Temp\\rust_mozprofile35zjVw"
+1649250477960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mhsaf\\AppData\\Local\\Temp\\rust_mozprofile35zjVw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60804/devtools/browser/a02aee6d-bb67-4eb2-bd20-cc930d46689b
+1649250482038	Marionette	INFO	Listening on port 60809
+1649250482352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ir-appointment.visametric.com"
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ir-appointment.visametric.com"
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+JavaScript warning: https://ir-appointment.visametric.com/en/appointment-form, line 1860: unreachable code after return statement
+1649250499859	Marionette	INFO	Stopped listening on port 60809
+1649250561640	geckodriver	INFO	Listening on 127.0.0.1:60918
+1649250564693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60919" "-no-remote" "-profile" "C:\\Users\\mhsaf\\AppData\\Local\\Temp\\rust_mozprofileScne1N"
+1649250565410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mhsaf\\AppData\\Local\\Temp\\rust_mozprofileScne1N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60919/devtools/browser/1c7f9d5e-9a17-4cd0-a18b-7734c74feee3
+1649250570005	Marionette	INFO	Listening on port 60924
+1649250570107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ir-appointment.visametric.com"
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://ir-appointment.visametric.com"
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
+JavaScript warning: https://ir-appointment.visametric.com/en/appointment-form, line 1860: unreachable code after return statement
+1649250585809	Marionette	INFO	Stopped listening on port 60924
+1663833920128	geckodriver	INFO	Listening on 127.0.0.1:58148
+1663833923224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58149" "-no-remote" "-profile" "C:\\Users\\mhsaf\\AppData\\Local\\Temp\\rust_mozprofileYM7VlM"
+1663833924031	Marionette	INFO	Marionette enabled
+1663833924043	Marionette	INFO	Listening on port 58155
+WebDriver BiDi listening on ws://localhost:58149
+1663833924618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mhsaf\\AppData\\Local\\Temp\\rust_mozprofileYM7VlM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58149/devtools/browser/8d167324-688e-4f4c-9c67-da5463a3614e
+JavaScript error: https://ir-appointment.visametric.com/js/jvns-cookie.js, line 2: TypeError: cookieJvns is null
